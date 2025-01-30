@@ -181,4 +181,28 @@ Proper Error Handling with meaningful responses.
 
 This User Management System ensures secure authentication, user-friendly notifications, and an admin panel for seamless management.
 
+## Screenshots 
+### Sign Up 
+1. Signing Up using Already existing Mail
+![Screenshot 2025-01-30 182301](https://github.com/user-attachments/assets/1300e91b-cde3-4860-b1ed-f6df4c9c4c95)
+
+2. After Successfull Signup using new email
+
+![Screenshot 2025-01-30 182340](https://github.com/user-attachments/assets/1caf5a39-c04b-4f8c-aafc-94ec6ba4391c)
+
+### Login
+1. Logging In using wrong Email
+
+![Screenshot 2025-01-30 182413](https://github.com/user-attachments/assets/8392d003-325c-483f-9c92-ae85a7c10858)
+
+2. Successful Login
+
+![Screenshot 2025-01-30 182441](https://github.com/user-attachments/assets/aca198cb-6fd0-4113-ac35-d475e4195997) 
+
+3. Token Generated After login
+![Screenshot 2025-01-30 182457](https://github.com/user-attachments/assets/b86a594a-94e1-46e7-b60a-88648ff3aac9)
+
+### Logout 
+Logged OUT with cookie cleared
+![Screenshot 2025-01-30 182512](https://github.com/user-attachments/assets/a732885e-d81a-4fb3-a7de-264d5aec6d14)
 
