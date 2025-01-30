@@ -181,16 +181,20 @@ Proper Error Handling with meaningful responses.
 
 This User Management System ensures secure authentication, user-friendly notifications, and an admin panel for seamless management.
 
-## Screenshots 
+## Screenshots
+
 ### Sign Up 
+
 1. Signing Up using Already existing Mail
+   
 ![Screenshot 2025-01-30 182301](https://github.com/user-attachments/assets/1300e91b-cde3-4860-b1ed-f6df4c9c4c95)
 
-2. After Successfull Signup using new email
+3. After Successfull Signup using new email
 
 ![Screenshot 2025-01-30 182340](https://github.com/user-attachments/assets/1caf5a39-c04b-4f8c-aafc-94ec6ba4391c)
 
 ### Login
+
 1. Logging In using wrong Email
 
 ![Screenshot 2025-01-30 182413](https://github.com/user-attachments/assets/8392d003-325c-483f-9c92-ae85a7c10858)
@@ -200,9 +204,34 @@ This User Management System ensures secure authentication, user-friendly notific
 ![Screenshot 2025-01-30 182441](https://github.com/user-attachments/assets/aca198cb-6fd0-4113-ac35-d475e4195997) 
 
 3. Token Generated After login
+   
 ![Screenshot 2025-01-30 182457](https://github.com/user-attachments/assets/b86a594a-94e1-46e7-b60a-88648ff3aac9)
 
 ### Logout 
 Logged OUT with cookie cleared
+
 ![Screenshot 2025-01-30 182512](https://github.com/user-attachments/assets/a732885e-d81a-4fb3-a7de-264d5aec6d14)
 
+### Profile details
+1. Fetching Profile details only after Loggin In
+
+![Screenshot 2025-01-30 182549](https://github.com/user-attachments/assets/21d88b3d-b943-41ed-bd01-e659665838b7)
+
+2. Updating Profile details After Loggin in
+
+![Screenshot 2025-01-30 182623](https://github.com/user-attachments/assets/da7f0da7-9379-4e97-a2f6-8ed86dd6be9c)
+
+![Screenshot 2025-01-30 182635](https://github.com/user-attachments/assets/c1f39978-d28d-4ec6-8cb4-dbb9f54d0c66)
+
+### Notifications and Admin Panel
+
+1. Trying to access all notification with general role
+![Screenshot 2025-01-30 182705](https://github.com/user-attachments/assets/a8260184-fecb-4b9b-977d-b1c404d34b86)
+
+2. Successfully Sending the Notification
+
+![Screenshot 2025-01-30 182927](https://github.com/user-attachments/assets/072cd151-2974-4cd8-a9f6-ed06d42f047b)
+
+3. Notification waiting in Queue as availability is Off
+
+![Screenshot 2025-01-30 182946](https://github.com/user-attachments/assets/c3e94b28-ff8b-4161-a35c-b436e409cce4)
