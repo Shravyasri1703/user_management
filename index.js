@@ -11,6 +11,9 @@ dotenv.config()
 app.use(express.json())
 app.use(cookieParser())
 
+app.get('/', (req, res)=>{
+    res.send("Welcome to User Management and Admin Panel application by Shravya")
+})
 app.use('/api/auth', authRoute)
 app.use('/api/notifications', notificationRoutes)
 
