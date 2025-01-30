@@ -65,13 +65,13 @@ JWT_SECRET=your_secret_key
 ### 4. Run the Application
 
 Development Mode
-
+```
 npm run dev
-
+```
 Production Mode
-
+```
 npm start
-
+```
 # API Documentation
 
 ## User Authentication
